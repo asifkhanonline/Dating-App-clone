@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "653955363978",
+    "firebase_url": "https://dating-34895.firebaseio.com",
+    "project_id": "dating-34895",
+    "storage_bucket": "dating-34895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653955363978:android:e08fd853c72cb6fd",
+        "android_client_info": {
+          "package_name": "com.lco.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653955363978-o5pbbo0g1d7g6d7mh7uporm41mu6sb4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lco.dating",
+            "certificate_hash": "0a987c204b5fa98b0066420b1ea3e6f5a90103ae"
+          }
+        },
+        {
+          "client_id": "653955363978-4p36gsm79n96pptag3bf1rendprn4q7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCV5jt9w3QiqZRHUj26ZcY00Q08TeJW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653955363978-4p36gsm79n96pptag3bf1rendprn4q7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653955363978:android:2955148b1329df5e",
+        "android_client_info": {
+          "package_name": "com.lco.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653955363978-ps0gtoufvrdlpqd9sasahh62ht23er3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lco.datingapp",
+            "certificate_hash": "0a987c204b5fa98b0066420b1ea3e6f5a90103ae"
+          }
+        },
+        {
+          "client_id": "653955363978-4p36gsm79n96pptag3bf1rendprn4q7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCV5jt9w3QiqZRHUj26ZcY00Q08TeJW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653955363978-4p36gsm79n96pptag3bf1rendprn4q7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
